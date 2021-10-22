@@ -1,6 +1,6 @@
 pipeline {
     environment {
-    registry = "falug/ast_crm"
+    registry = "falug/springbootrest"
     registryCredential = 'DockerHub'
     dockerImage = ''
     }
